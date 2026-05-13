@@ -1,0 +1,23 @@
+{
+  "name": "nexus",
+  "version": "1.0.0",
+  "description": "Node.js backend project — notes derived from world_best_nodejs_notes.pdf",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik2374/Nexus_API_gateway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratik2374/Nexus_API_gateway/issues"
+  },
+  "homepage": "https://github.com/pratik2374/Nexus_API_gateway#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
